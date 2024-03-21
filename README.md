@@ -19,11 +19,22 @@ Parte II - Despliegue app web spring MVC (o spring-boot backend)
 
   ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/29a5650a-5737-4b76-855e-63aa55e4e6ee)
 
-  EJERCICIO 2
+  EJERCICIO 2: actualización de la configuración de la aplicación web
 
   ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/f1c0dcb8-88dd-4df5-a129-009f8f2b6b64)
 
+  ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/d68656d4-5910-4db5-8112-b013ccc44a26)
+
   ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/7fad6d55-8b3c-4a88-88ed-1e54c180733f)
+
+  EJERCICIO 3: implementar los cambios en la aplicación web
+
+  ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/614a5d69-eb28-4700-8875-60a5ebe47d47)
+
+  ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/33852cb1-7ca9-4c8d-9d02-50663367897a)
+
+  ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/d30f951d-3249-4037-9592-f27c8d46d90c)
+
 
 
 
