@@ -19,10 +19,11 @@ Parte II - Despliegue app web spring MVC (o spring-boot backend)
 
   ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/29a5650a-5737-4b76-855e-63aa55e4e6ee)
 
-    EJERCICIO 2
+  EJERCICIO 2
 
   ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/f1c0dcb8-88dd-4df5-a129-009f8f2b6b64)
 
+  ![image](https://github.com/Knight072/CVDS-LAB6/assets/116401447/7fad6d55-8b3c-4a88-88ed-1e54c180733f)
 
 
 
